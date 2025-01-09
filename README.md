@@ -1,3 +1,3 @@
 # Adivinanza de números
 
-Juego sencillo de adininaza de numeros del 1 al 100
+Juego sencillo de adivinanza de números del 1 al 100
